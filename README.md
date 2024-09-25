@@ -4,6 +4,12 @@
 
 ChatGPT Theme is a sleek, modern Firefox theme designed to enhance your browsing experience. This theme offers a clean, user-friendly interface while reflecting the aesthetic of ChatGPT.
 
+## Now Avable FireFox Addons!!
+
+You can easily download and install the ChatGPT Theme for free from the Firefox Add-ons site. Enjoy a smoother and more stylish browsing experience without any cost!
+
+https://addons.mozilla.org/en-US/firefox/addon/chatgpt-themes/ 
+
 ## Features
 
 - **Sleek Design**: A visually appealing layout that complements the ChatGPT branding.
